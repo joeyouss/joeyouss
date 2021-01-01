@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="joeyouss" />
  </p>
  
+ ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
  
  
  ### Languages and Tools:
