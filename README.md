@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Felicity- an open source web project
 - 🌱 I’m currently learning - Back-end development and Flutter
-- 💬 Ask me about - open source, web development
-- 📫 How to reach me: ..
+- 💬 Ask me about - open source, web development and my favourite series!
 
 
 <p align="left"> 
