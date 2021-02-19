@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Felicity- My open source web project (if you would like to contribute, welcome!)
 - 🌱 I’m currently learning - Back-end development and Flutter
-- 💬 Ask me about - open source, web development and my favourite series!
+- 💬 Join a community of beginner coders - ask doubts, learn together ! - https://discord.gg/2nRsHFeGQw
 - :black_nib: Find my blogs on - https://hashnode.com/@Joeyouss
 
 
