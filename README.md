@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning - Back-end development and Flutter
 - 💬 Join a community of beginner coders - ask doubts, learn together ! - https://discord.gg/2nRsHFeGQw
 - :black_nib: Find my blogs on - https://hashnode.com/@Joeyouss
+- ROADMAP JS - 
 
 
 <p align="left"> 
