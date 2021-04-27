@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Felicity- My open source web project (if you would like to contribute, welcome!)
 - 🌱 I’m currently learning - Back-end development and Flutter
 - 💬 Join a community of beginner coders - ask doubts, learn together ! - https://discord.gg/2nRsHFeGQw
-- :black_nib: Find my blogs on - https://hashnode.com/@Joeyouss
+- :black_nib: Find my blogs on - https://hashnode.com/@Joeyous
 - ROADMAP JS - ![Joeyouss' js roadmap](https://github.com/joeyouss/Javascript_ROADMAP/blob/main/README.md)
 
 
