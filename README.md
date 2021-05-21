@@ -14,10 +14,6 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="joeyouss" />
  </p>
-  
-  <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=joeyouss"/>       
-</p>
 
  
  ### Languages and Tools:
