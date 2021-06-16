@@ -5,10 +5,9 @@
 -->
 
 - 🔭 Reach out to me on - jyotibisht6114@gmail.com
-- 🌱 I’m currently learning - Back-end development and Flutter
-- 💬 Join a community of beginner coders - ask doubts, learn together ! - https://discord.gg/2nRsHFeGQw
+- 🌱 I am currently an MLH fellow - working on python-oriented open source tracks!
 - :black_nib: Find my blogs on - https://hashnode.com/@Joeyous
-- ROADMAP JS - ![Joeyouss' js roadmap](https://github.com/joeyouss/Javascript_ROADMAP/blob/main/README.md)
+- ROADMAP JS - [Joeyouss' js roadmap](https://github.com/joeyouss/Javascript_ROADMAP/blob/main/README.md)
 
 
 <p align="left"> 
