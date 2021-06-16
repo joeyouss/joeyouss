@@ -4,7 +4,7 @@
 **joeyouss/joeyouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Felicity- My open source web project (if you would like to contribute, welcome!)
+- 🔭 Reach out to me on - jyotibisht6114@gmail.com
 - 🌱 I’m currently learning - Back-end development and Flutter
 - 💬 Join a community of beginner coders - ask doubts, learn together ! - https://discord.gg/2nRsHFeGQw
 - :black_nib: Find my blogs on - https://hashnode.com/@Joeyous
