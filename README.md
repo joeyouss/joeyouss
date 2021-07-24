@@ -4,10 +4,9 @@
 **joeyouss/joeyouss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Reach out to me on - jyotibisht6114@gmail.com
-- 🌱 I am currently an MLH fellow - working on python-oriented open source tracks!
+- 🔭 I am a rising senior with majors in Computer Science.
+- 🌱 I am currently an MLH fellow - working on HOWDOI (an open-source python-based CLI tool which answeres your queries in the command line itself.)
 - :black_nib: Find my blogs on - https://hashnode.com/@Joeyous
-- ROADMAP JS - [Joeyouss' js roadmap](https://github.com/joeyouss/Javascript_ROADMAP/blob/main/README.md)
 
 
 <p align="left"> 
