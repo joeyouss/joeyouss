@@ -9,12 +9,19 @@ You can find me here :
   <a href="mailto:jyotibisht6114@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hashnode.com/@Joeyous"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
 
+## Connect with me for :
+  - Pair programming
+  - Asking about any Data strcuture or algorithm (I will try my best to explain)
+  - Help with getting started with open source.
+  - To say hi !
+  - Any new opportunity 
+  
 ## About Me
-Hi, i am Joe !
+Hi, I am Joe !
 - 🔭 I am a rising senior with majors in Computer Science.
 - 🌱 I am currently an MLH fellow - working on HOWDOI (an open-source python-based CLI tool which answeres your queries in the command line itself.)
-- I find my technical interests in Full-stack development,Technical writing, Machine Learning and open source !. 
-- I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
+- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
+- 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 
  
 ## Experience 
