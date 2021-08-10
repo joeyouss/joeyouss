@@ -16,6 +16,7 @@ Hi, I am Joe !
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🖋️ I am an artist and I love everything that is drawn by hand or digitally !
+- 🗣️ I never turn down a an interesting conversation about Interviews, life, OSS and novels!. 
 
  
 ## Experience 
@@ -23,7 +24,7 @@ Hi, I am Joe !
  - Started contributing to [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk), a project under Facebook reality Labs with [issue #40](https://github.com/facebookincubator/mapillary-python-sdk/issues/40) 
  - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience.
  - [Codeflow.org Speaker](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_codeflow-bootcamp-dsa-activity-6806528373775572992-tCR_) - A vibrant community hosting DSA camps for beginners wherein I gave a talk for the purpose of teching bit manipulation and mathematics to learners.
- - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and helped improve my technical and behavioural knowledge.
+ - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and worked on improving my technical and behavioural knowledge.
 
  
 ## Tech Stack
