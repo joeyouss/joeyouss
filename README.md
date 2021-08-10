@@ -9,13 +9,6 @@ You can find me here :
   <a href="mailto:jyotibisht6114@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hashnode.com/@Joeyous"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
 
-## Connect with me for :
-  - Pair programming
-  - Asking about any Data strcuture or algorithm (I will try my best to explain)
-  - Help with getting started with open source.
-  - To say hi !
-  - Any new opportunity 
-  
 ## About Me
 Hi, I am Joe !
 - 🔭 I am a rising senior with majors in Computer Science.
@@ -39,8 +32,6 @@ Hi, I am Joe !
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,11 +40,8 @@ Hi, I am Joe !
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
-<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>   
-<img alt='Heroku' src="https://img.shields.io/badge/Heroku-Heroku?style=for-the-badge&logo=heroku&color=430098"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/>
-<img alt="Sass" src="https://img.shields.io/badge/Sass-Sass?style=for-the-badge&logo=sass&logoColor=fff&color=CC6699"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-Figma?style=for-the-badge&logo=figma&logoColor=fff&color=F24E1E"/>   
+<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
  </a>
 </p>
 
@@ -62,6 +50,14 @@ Hi, I am Joe !
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="joeyouss" />
  </p>
+
+## Connect with me for :
+  - Pair programming
+  - Asking about any Data strcuture or algorithm (I will try my best to explain)
+  - Help with getting started with open source.
+  - To say hi !
+  - Any new opportunity 
+  
 
 ![Jyoti Bisht Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=joeyouss&show_icons=true&include_all_commits=true&theme=radical)
 
