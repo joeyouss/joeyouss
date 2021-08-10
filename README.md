@@ -21,7 +21,8 @@ Hi, I am Joe !
  
 ## Experience 
  - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks. Currently, contributing to [howdoi](https://github.com/gleitz/howdoi) wherein the changes made were released as new [howdoi version](https://pypi.org/project/howdoi/)!
- - Started contributing to [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk), a project under Facebook reality Labs with [issue #40](https://github.com/facebookincubator/mapillary-python-sdk/issues/40) 
+ - Started contributing to [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk), a project under Facebook reality Labs with [issue #40](https://github.com/facebookincubator/mapillary-python-sdk/issues/40)
+  - Recently, I won the MLH orientation hackathon with my team with my project the [FellowBot](https://devpost.com/software/fellowbot).
  - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience.
  - [Codeflow.org Speaker](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_codeflow-bootcamp-dsa-activity-6806528373775572992-tCR_) - A vibrant community hosting DSA camps for beginners wherein I gave a talk for the purpose of teching bit manipulation and mathematics to learners.
  - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and worked on improving my technical and behavioural knowledge.
