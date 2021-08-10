@@ -11,7 +11,7 @@ You can find me here :
 
 ## About Me
 Hi, I am Joe !
-- 🔭 I am a rising senior with majors in Computer Science from India 🇮🇳.
+- 🔭 I am a rising senior with majors in Computer Science from India :india: .
 - 🌱 I am currently an MLH fellow - working on HOWDOI (an open-source python-based CLI tool which answeres your queries in the command line itself.)
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
