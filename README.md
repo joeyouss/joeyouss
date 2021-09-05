@@ -59,9 +59,8 @@ Hi, I am Joe !
 
 ## Connect with me for :
   - Pair programming
-  - Asking about any Data strcuture or algorithm (I will try my best to explain)
+  - Asking about any Data structures or algorithm (I will try my best to help)
   - Help with getting started with open source.
-  - To say hi !
   - Any new opportunity 
   
 
