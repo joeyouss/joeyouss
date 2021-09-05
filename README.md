@@ -18,9 +18,6 @@ Hi, I am Joe !
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🖋️ I am an artist and I love everything that is drawn by hand or digitally !
-- 🗣️ I never turn down a an interesting conversation about Interviews, life, OSS and novels!. 
-
- 
 ## Experience 
  - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks. Currently, contributing to [howdoi](https://github.com/gleitz/howdoi) wherein the changes made were released as new [howdoi version](https://pypi.org/project/howdoi/)!
  - Started contributing to [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk), a project under Facebook reality Labs with [issue #40](https://github.com/facebookincubator/mapillary-python-sdk/issues/40)
