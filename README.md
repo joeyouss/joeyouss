@@ -45,6 +45,8 @@ Hi, I am Joe !
 <img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
 <img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
+   <img alt="Unity" src="https://img.shields.io/badge/Unity-Unity?style=for-the-badge&logo=unity&logoColor=fff&color=5C3EB8"/> 
+ 
  </a>
 </p>
 
