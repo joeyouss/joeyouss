@@ -42,8 +42,9 @@ Hi, I am Jyoti Bisht, aka Jo !
 ## Connect with me for :
   - Pair programming
   - Asking about any Data structures or algorithm.
-  - Help with getting started with open source.
-  
+  - Talking about Open source
+  - Communities, CFPs and Developer Advocacy
+
 
 ![Jyoti Bisht Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=joeyouss&show_icons=true&include_all_commits=true&theme=radical)
 
