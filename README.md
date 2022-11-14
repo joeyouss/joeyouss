@@ -16,10 +16,10 @@ You can find me here :
 Hi, I am Jyoti Bisht, aka Jo !
 - 🔭 I completed my Bachelor of Technology (BTech) in 2022 from Dehradun, India.
 - 📍 I am a proud to be working at Appwrite as a Community Support Engineer. [Join our community](https://appwrite.io/community) or apply to our [careers page](https://appwrite.io/company/careers) to be a part of a dynamic remote-friendly team: 
-- 🌱 In the past, I have been an MLH fellow in Summer of 2021 and currently am a Pod Leader.
+- 🌱 In the past, I have been an [MLH fellow in Summer of 2021](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-developer-opensource-activity-6838176716964417536-72an?utm_source=share&utm_medium=member_desktop) and currently am a Pod Leader.
 - 👩‍💻 I find my technical interests in Problem Solving,Technical writing, and open source !. 
 - 👍 I attended my first international conference this year i.e. 2022 in [Spain - KubeCon+CloudNativeCon EU](https://www.linkedin.com/feed/update/urn:li:activity:6934488046662742016/).
-- 📈 I worked with Jina AI for 1.3 years as a DevRel Specialist and have worked with 36+ communities in this duration. My passion for making tech communities better by empowering them through education and mentorship has been the driving force of my involvement in Developer Advocacy and open source.
+- 📈 [I worked with Jina AI for 1.3 years](https://www.linkedin.com/feed/update/urn:li:activity:6935121760623173633/) as a DevRel Specialist and have worked with 36+ communities in this duration. My passion for making tech communities better by empowering them through education and mentorship has been the driving force of my involvement in Developer Advocacy and open source.
 - 🖋️ Fun-fact: I am an artist and I love everything that is drawn by hand or digitally.
 - 🫥 Let's just say I have wanted to maintain a Leetcode streak for over an year and failed about 34 times. 
   
@@ -30,10 +30,7 @@ Hi, I am Jyoti Bisht, aka Jo !
  - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks.
  - MLH pod leader - I worked with MLH as a pod leader for Summer 2022 and am currrently working for Fall 2022.
  -  Codess.Cafe mentor for open source track. Codess.cafe is an pro-bono mentorship program for young women in tech and with the completion of its third cohort this year, we have impacted over 700+ women in tech. 
- - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience.
- - [Codeflow.org Speaker](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_codeflow-bootcamp-dsa-activity-6806528373775572992-tCR_) - A vibrant community hosting DSA camps for beginners wherein I gave a talk for the purpose of teching bit manipulation and mathematics to learners.
- - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and worked on improving my technical and behavioural knowledge.
-
+ - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience. 
  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="joeyouss" />
