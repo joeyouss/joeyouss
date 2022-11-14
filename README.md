@@ -18,7 +18,7 @@ Hi, I am Jyoti Bisht, aka Jo !
 - 📍 I am a proud to be working at Appwrite as a Community Support Engineer. [Join our community](https://appwrite.io/community) or apply to our [careers page](https://appwrite.io/company/careers) to be a part of a dynamic remote-friendly team: 
 - 🌱 In the past, I have been an MLH fellow in Summer of 2021 and currently am a Pod Leader.
 - 👩‍💻 I find my technical interests in Problem Solving,Technical writing, and open source !. 
-- 👍 Recently, I was an in-person attendee at KubeCon EU 2022.
+- 👍 I attended my first international conference this year i.e. 2022 in [Spain - KubeCon+CloudNativeCon EU](https://www.linkedin.com/feed/update/urn:li:activity:6934488046662742016/).
 - 📈 I worked with Jina AI for 1.3 years as a DevRel Specialist and have worked with 36+ communities in this duration. My passion for making tech communities better by empowering them through education and mentorship has been the driving force of my involvement in Developer Advocacy and open source.
 - 🖋️ Fun-fact: I am an artist and I love everything that is drawn by hand or digitally.
 - 🫥 Let's just say I have wanted to maintain a Leetcode streak for over an year and failed about 34 times. 
