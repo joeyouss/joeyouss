@@ -12,17 +12,22 @@ You can find me here :
   
 
 ## About Me
-Hi, I am Joe !
-- 🔭 I am a rising senior with majors in Computer Science from India!.
-- 🌱 I am currently an MLH fellow - working on HOWDOI (an open-source python-based CLI tool which answeres your queries in the command line itself.)
-- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
-- 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
-- 🖋️ I am an artist and I love everything that is drawn by hand or digitally !
+Hi, I am Jyoti Bisht, aka Jo !
+- 🔭 I completed my Bachelor of Technology (BTech) in 2022 from Dehradun, India.
+- 📍 I am a proud to be working at Appwrite as a Community Support Engineer. [Join our community](https://appwrite.io/community) or apply to our [careers page](https://appwrite.io/company/careers) to be a part of a dynamic remote-friendly team: 
+- 🌱 In the past, I have been an MLH fellow in Summer of 2021 and currently am a Pod Leader.
+- 👩‍💻 I find my technical interests in Problem Solving,Technical writing, and open source !. 
+- 👍 Recently, I was an in-person attendee at KubeCon EU 2022.
+- 📈 I worked with Jina AI for 1.3 years as a DevRel Specialist and have worked with 36+ communities in this duration. My passion for making tech communities better by empowering them through education and mentorship has been the driving force of my involvement in Developer Advocacy and open source.
+- 🖋️ Fun-fact: I am an artist and I love everything that is drawn by hand or digitally.
+  
 ## Experience 
- - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks. Currently, contributing to [howdoi](https://github.com/gleitz/howdoi) wherein the changes made were released as new [howdoi version](https://pypi.org/project/howdoi/)!
- - Started contributing to [Mapillary](https://github.com/facebookexternal/mapillary-python-sdk), a project under Facebook reality Labs with [issue #40](https://github.com/facebookincubator/mapillary-python-sdk/issues/40)
-  - Recently, I won the MLH orientation hackathon with my team with my project the [FellowBot](https://devpost.com/software/fellowbot).
- -  Codess.Cafe mentor for open source track.
+  
+ - Currently at Appwrite, working as a Community Support Engineer since Nov 2022.
+ - Jina AI DevRel: I worked with Jina AI from Aug 2021 to Oct 2022 where I built external connections with growing communities in tech. Not only this, If you have ever received Jina AI swags (Especially in India), chances are high that it was sent by me! 
+ - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks.
+ - MLH pod leader - I worked with MLH as a pod leader for Summer 2022 and am currrently working for Fall 2022.
+ -  Codess.Cafe mentor for open source track. Codess.cafe is an pro-bono mentorship program for young women in tech and with the completion of its third cohort this year, we have impacted over 700+ women in tech. 
  - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience.
  - [Codeflow.org Speaker](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_codeflow-bootcamp-dsa-activity-6806528373775572992-tCR_) - A vibrant community hosting DSA camps for beginners wherein I gave a talk for the purpose of teching bit manipulation and mathematics to learners.
  - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and worked on improving my technical and behavioural knowledge.
@@ -58,9 +63,8 @@ Hi, I am Joe !
 
 ## Connect with me for :
   - Pair programming
-  - Asking about any Data structures or algorithm (I will try my best to help)
+  - Asking about any Data structures or algorithm.
   - Help with getting started with open source.
-  - Any new opportunity 
   
 
 ![Jyoti Bisht Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=joeyouss&show_icons=true&include_all_commits=true&theme=radical)
