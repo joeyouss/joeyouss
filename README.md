@@ -8,6 +8,7 @@ You can find me here :
   <a href="https://www.linkedin.com/in/jyoti-bisht-9299181b1/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jyotibisht6114@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://hashnode.com/@Joeyous"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+  <a href="https://leetcode.com/joeyouss/"><img title="Leetcode" src="(https://img.shields.io/badge/Leetcode-Leetcode-purple)"/></a>  
   
   
 
@@ -20,6 +21,7 @@ Hi, I am Jyoti Bisht, aka Jo !
 - 👍 Recently, I was an in-person attendee at KubeCon EU 2022.
 - 📈 I worked with Jina AI for 1.3 years as a DevRel Specialist and have worked with 36+ communities in this duration. My passion for making tech communities better by empowering them through education and mentorship has been the driving force of my involvement in Developer Advocacy and open source.
 - 🖋️ Fun-fact: I am an artist and I love everything that is drawn by hand or digitally.
+- 🫥 Let's just say I have wanted to maintain a Leetcode streak for over an year and failed about 34 times. 
   
 ## Experience 
   
@@ -31,30 +33,6 @@ Hi, I am Jyoti Bisht, aka Jo !
  - [Girlscript Education outreach Program Mentor](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_thankyou-people-mentoring-activity-6768905121893093376-WAwz) - Taught Javascript to 700+ passionate indivisuals from different spheres of life. It was an amazing experience.
  - [Codeflow.org Speaker](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_codeflow-bootcamp-dsa-activity-6806528373775572992-tCR_) - A vibrant community hosting DSA camps for beginners wherein I gave a talk for the purpose of teching bit manipulation and mathematics to learners.
  - [WWCD mentee](https://www.linkedin.com/posts/jyoti-bisht-9299181b1_this-post-comes-really-late-but-is-important-activity-6806639097973743616-tUjP) - Worked under Women Who Code Delhi mentorship program for a span of 3 months and worked on improving my technical and behavioural knowledge.
-
- 
-## Tech Stack
-
-<p align="left">
- <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
-<img alt='ReactJS' src="https://img.shields.io/badge/ReactJS-ReactJS?style=for-the-badge&logo=react&color=303030"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-OpenCV?style=for-the-badge&logo=opencv&logoColor=fff&color=5C3EE8"/> 
-   <img alt="Unity" src="https://img.shields.io/badge/Unity-Unity?style=for-the-badge&logo=unity&logoColor=fff&color=5C3EB8"/> 
- 
- </a>
-</p>
-
 
  
 <p align="left"> 
