@@ -7,7 +7,6 @@ You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/jyoti-bisht-9299181b1/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jyotibisht6114@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://hashnode.com/@Joeyous"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
   <a href="https://leetcode.com/joeyouss/"><img title="Leetcode" src="https://img.shields.io/badge/Leetcode-Leetcode-purple"/></a>  
   
   
