@@ -22,8 +22,8 @@ Hi, I am Jyoti Bisht, aka Jo !
 - 🫥 Let's just say I have wanted to maintain a Leetcode streak for over an year and failed about 34 times. 
   
 ## Experience 
-  
- - Currently at Appwrite, working as a Community Support Engineer since Nov 2022.
+ - Currently at Harness ⭐️
+ - Previously at Appwrite, worked as a Community Engineer.
  - Jina AI DevRel: I worked with Jina AI from Aug 2021 to Oct 2022 where I built external connections with growing communities in tech. Not only this, If you have ever received Jina AI swags (Especially in India), chances are high that it was sent by me! 
  - [MLH Open Source Fellow @MLH](https://fellowship.mlh.io/)! - Got selected as one of the 100 fellows in MLH for summer cohort to contribute to python-oriented open source tracks.
  - MLH pod leader - I worked with MLH as a pod leader for Summer 2022 and am currrently working for Fall 2022.
